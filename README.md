@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-latitude10-tech is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://latitude10.tech/
+Latitude 10 is an API platform: one OpenAPI file becomes a versioned registry, a hosted API reference with a client, docs for people and AI agents, TypeScript and Python SDKs, and a hosted MCP server. It’s built by Jorge Ortega at October Moon LLC. The platform offers a free tier and a Pro subscription, enabling developers to publish, version, and monetize their APIs with AI agent integration.
+
+**Areas:** API Platform · MCP · Developer Tools · AI Agents · OpenAPI
+
+## latitude10-tech on APIs.io
+
+Everything profiled for latitude10-tech is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/latitude10-tech/](https://apis.io/providers/latitude10-tech/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [latitude10-tech Agent readiness API](https://apis.io/apis/latitude10-tech/latitude10-tech-agent-readiness-api/) — How well AI agents will use an API, from its OpenAPI spec.
+- [latitude10-tech Design packs API](https://apis.io/apis/latitude10-tech/latitude10-tech-design-packs-api/) — Design systems in the DESIGN.md format, delivered as a download link.
+- [latitude10-tech Developer kits API](https://apis.io/apis/latitude10-tech/latitude10-tech-developer-kits-api/) — Source-code kits for building and running AI agents, delivered as a download link.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Latitude10 Tech Agentic Access](https://apis.io/agentic-access/latitude10-tech/latitude10-tech-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Latitude10 Tech Context](https://apis.io/jsonld/latitude10-tech/latitude10-tech-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [latitude10-tech API Rules](https://apis.io/rules/latitude10-tech/latitude10-tech-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Latitude10 Tech Authentication](https://apis.io/security/latitude10-tech/latitude10-tech-authentication/)
+- [Latitude10 Tech Domain Security](https://apis.io/security/latitude10-tech/latitude10-tech-domain-security/)
+- [Latitude10 Tech Trust Center](https://apis.io/security/latitude10-tech/latitude10-tech-trust-center/)
+- [Latitude10 Tech Vulnerability Disclosure](https://apis.io/security/latitude10-tech/latitude10-tech-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Latitude10 Tech Plans Pricing](https://apis.io/plans/latitude10-tech/latitude10-tech-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Latitude10 Tech Rate Limits](https://apis.io/rate-limits/latitude10-tech/latitude10-tech-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://latitude10.tech/)
+- [Documentation](https://docs.latitude10.tech/)
+- [Getting started](https://docs.latitude10.tech/quickstart)
+- [API reference](https://latitude10.tech/llms.txt)
+- [Pricing](https://latitude10.tech/)
+- [Support](https://latitude10.tech/)
+- [Changelog](https://docs.latitude10.tech/changelog)
+- [Security](https://latitude10.tech/security)
+- [Compliance](https://latitude10.tech/security)
+- [Terms of service](https://latitude10.tech/terms)
+- [Privacy policy](https://latitude10.tech/privacy)
+- [GitHub](https://github.com/latitude10)
+- [Status](https://status.latitude10.tech/)
+
+## API Evangelist rating
+
+**Kin Score 68.3** — exemplar · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 49.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 66.3 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 88.9 |
+
+**Agent readiness 40.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/latitude10-tech/](https://apis.io/providers/latitude10-tech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for latitude10-tech: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/latitude10-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
